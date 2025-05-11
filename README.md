@@ -1,4 +1,4 @@
-# Viva Voce Questions and Answers Based on Lab Manual
+# Viva Questions and Answers Based on Lab Manual
 
 ## Graph Algorithms
 
